@@ -1,0 +1,5 @@
+/Users/chiragsharma/Projects/practiceInterview/sorting/bin/Debug/sorting.exe
+/Users/chiragsharma/Projects/practiceInterview/sorting/bin/Debug/sorting.pdb
+/Users/chiragsharma/Projects/practiceInterview/sorting/obj/x86/Debug/sorting.csproj.CoreCompileInputs.cache
+/Users/chiragsharma/Projects/practiceInterview/sorting/obj/x86/Debug/sorting.exe
+/Users/chiragsharma/Projects/practiceInterview/sorting/obj/x86/Debug/sorting.pdb

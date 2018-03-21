@@ -1,0 +1,5 @@
+/Users/chiragsharma/Projects/practiceInterview/practiceInterview/bin/Debug/practiceInterview.exe
+/Users/chiragsharma/Projects/practiceInterview/practiceInterview/bin/Debug/practiceInterview.pdb
+/Users/chiragsharma/Projects/practiceInterview/practiceInterview/obj/x86/Debug/practiceInterview.csproj.CoreCompileInputs.cache
+/Users/chiragsharma/Projects/practiceInterview/practiceInterview/obj/x86/Debug/practiceInterview.exe
+/Users/chiragsharma/Projects/practiceInterview/practiceInterview/obj/x86/Debug/practiceInterview.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{60283264-E6C7-45F0-8542-687E3F54B378}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sorting/quicksorting1.cs">
+    <Files>
+      <File FileName="sorting/hurdle.cs" Line="16" Column="14" />
+      <File FileName="sorting/quicksorting1.cs" Line="21" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.practiceInterview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sorting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
