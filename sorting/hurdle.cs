@@ -30,7 +30,7 @@ namespace sorting
             return Reverse;
         }
 
-        static void Main(String[] args)
+        static void Mains(String[] args)
         {
             string[] tokens_i = Console.ReadLine().Split(' ');
             int i = Convert.ToInt32(tokens_i[0]);

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace sorting
 {
@@ -13,12 +14,16 @@ namespace sorting
             List<int> pivotlist = new List<int>();
 
             int pivot = arr[0];
-            foreach(var i in arr){
+            foreach (var i in arr)
+            {
                 if (i > pivot) rightlist.Add(i);
                 else if (i < pivot) leftlist.Add(i);
                 else if (i == pivot) pivotlist.Add(i);
 
             }
+            var v1 = from s in arr where s < pivot select s;
+            var v2 = arr.Where(s => s < pivot);
+            var v3 = from k in arr orderby k select k;
             leftlist.AddRange(pivotlist);
             leftlist.AddRange(rightlist);
             return leftlist.ToArray();

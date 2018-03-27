@@ -45,6 +45,7 @@
     <Compile Include="insertionsortadvance.cs" />
     <Compile Include="fradulentalert.cs" />
     <Compile Include="hurdle.cs" />
+    <Compile Include="countingsort4optimised.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

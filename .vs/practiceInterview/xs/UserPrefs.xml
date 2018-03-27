@@ -1,16 +1,26 @@
-﻿<Properties StartupConfiguration="{60283264-E6C7-45F0-8542-687E3F54B378}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="sorting/quicksorting1.cs">
+﻿<Properties StartupConfiguration="{48FEE192-46A8-4C36-9193-DF55BEC82207}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practiceInterview Status">
     <Files>
-      <File FileName="sorting/hurdle.cs" Line="16" Column="14" />
-      <File FileName="sorting/quicksorting1.cs" Line="21" Column="14" />
+      <File FileName="treeplayground/Program.cs" Line="30" Column="35" />
+      <File FileName="treeplayground/Node.cs" Line="57" Column="77" />
+      <File FileName="treeplayground/Tree.cs" Line="30" Column="1" />
+      <File FileName="treeplayground Status" />
+      <File FileName="practiceInterview Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.practiceInterview PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/chiragsharma/Projects/practiceInterview/binaryrees/Tree.cs" relfile="binaryrees/Tree.cs" line="21" column="1" />
+      <Breakpoint enabled="false" file="/Users/chiragsharma/Projects/practiceInterview/binaryrees/Program.cs" relfile="binaryrees/Program.cs" line="21" column="32" />
+      <Breakpoint enabled="false" file="/Users/chiragsharma/Projects/practiceInterview/binaryrees/Program.cs" relfile="binaryrees/Program.cs" line="22" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.playground PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.sorting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.treeplayground PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.binaryrees PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practiceInterview", "practi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorting", "sorting\sorting.csproj", "{60283264-E6C7-45F0-8542-687E3F54B378}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playground", "playground\playground.csproj", "{3E9E2E59-CA8B-4065-8827-0A6A50FA76F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binaryrees", "binaryrees\binaryrees.csproj", "{D6578945-39C6-4747-B51E-BB3FF52EC165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treeplayground", "treeplayground\treeplayground.csproj", "{48FEE192-46A8-4C36-9193-DF55BEC82207}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +25,17 @@ Global
 		{60283264-E6C7-45F0-8542-687E3F54B378}.Debug|x86.Build.0 = Debug|x86
 		{60283264-E6C7-45F0-8542-687E3F54B378}.Release|x86.ActiveCfg = Release|x86
 		{60283264-E6C7-45F0-8542-687E3F54B378}.Release|x86.Build.0 = Release|x86
+		{3E9E2E59-CA8B-4065-8827-0A6A50FA76F1}.Debug|x86.ActiveCfg = Debug|x86
+		{3E9E2E59-CA8B-4065-8827-0A6A50FA76F1}.Debug|x86.Build.0 = Debug|x86
+		{3E9E2E59-CA8B-4065-8827-0A6A50FA76F1}.Release|x86.ActiveCfg = Release|x86
+		{3E9E2E59-CA8B-4065-8827-0A6A50FA76F1}.Release|x86.Build.0 = Release|x86
+		{D6578945-39C6-4747-B51E-BB3FF52EC165}.Debug|x86.ActiveCfg = Debug|x86
+		{D6578945-39C6-4747-B51E-BB3FF52EC165}.Debug|x86.Build.0 = Debug|x86
+		{D6578945-39C6-4747-B51E-BB3FF52EC165}.Release|x86.ActiveCfg = Release|x86
+		{D6578945-39C6-4747-B51E-BB3FF52EC165}.Release|x86.Build.0 = Release|x86
+		{48FEE192-46A8-4C36-9193-DF55BEC82207}.Debug|x86.ActiveCfg = Debug|x86
+		{48FEE192-46A8-4C36-9193-DF55BEC82207}.Debug|x86.Build.0 = Debug|x86
+		{48FEE192-46A8-4C36-9193-DF55BEC82207}.Release|x86.ActiveCfg = Release|x86
+		{48FEE192-46A8-4C36-9193-DF55BEC82207}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
